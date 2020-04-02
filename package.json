@@ -1,0 +1,15 @@
+{
+  "name": "com.rsg.unityweld",
+  "version": "0.8.0",
+  "displayName": "Unity Weld",
+  "description": "MVVM-style data-binding system for Unity",
+  "unity": "2018.1",
+  "author": {
+    "name": "Real Serious Games",
+    "email": "info@realseriousgames.com",
+    "url": "https://github.com/Real-Serious-Games/Unity-Weld"
+  },
+  "dependencies": {
+    "com.unity.modules.ui": "1.0.0"
+  }
+}
